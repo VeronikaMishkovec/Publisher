@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_business_phone" label="Business Phone" language="en" table="x_485380_publisher_consumer">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_business_phone</element>
+            <help/>
+            <hint/>
+            <label>Business Phone</label>
+            <language>en</language>
+            <name>x_485380_publisher_consumer</name>
+            <plural>Business Phones</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-12 13:13:38</sys_created_on>
+            <sys_id>7c590e2cdb7050100455ab7dca961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Business Phone</sys_name>
+            <sys_package display_value="Publisher" source="x_485380_publisher">e4d959a8dbfc10100455ab7dca961941</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Publisher">e4d959a8dbfc10100455ab7dca961941</sys_scope>
+            <sys_update_name>sys_documentation_x_485380_publisher_consumer_u_business_phone_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-12 13:13:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

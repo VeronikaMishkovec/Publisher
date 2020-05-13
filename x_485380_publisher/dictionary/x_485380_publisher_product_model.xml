@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="product-model" max_length="40" name="x_485380_publisher_product_model" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Cost" label="Cost" max_length="40" name="u_cost" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufacturer" label="Manufacturer" max_length="40" name="u_manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model Categories" max_length="40" name="u_model_categories" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product owner" max_length="40" name="u_product_owner" type="string"/>
+    </element>
+</database>
