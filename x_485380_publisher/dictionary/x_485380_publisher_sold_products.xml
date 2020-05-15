@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="sold-products" max_length="40" name="x_485380_publisher_sold_products" type="collection">
+    <element extends="sys_import_set_row" label="sold-products" max_length="40" name="x_485380_publisher_sold_products" sizeclass="40" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Account" label="Account" max_length="40" name="u_account" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Product" max_length="40" name="u_product" type="string"/>

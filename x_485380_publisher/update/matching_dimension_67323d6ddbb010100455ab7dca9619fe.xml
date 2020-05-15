@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="matching_dimension">
+    <matching_dimension action="INSERT_OR_UPDATE">
+        <aggregate_field>assigned_to</aggregate_field>
+        <aggregate_filter/>
+        <aggregate_table>task</aggregate_table>
+        <applies_to_field/>
+        <applies_to_table>task</applies_to_table>
+        <default_field_value/>
+        <description/>
+        <dimension_type>aggregate</dimension_type>
+        <display_name/>
+        <group_dependent>false</group_dependent>
+        <name>Matching product returns</name>
+        <reference_field>active</reference_field>
+        <reference_filter/>
+        <reference_label/>
+        <reference_table>task</reference_table>
+        <resource_field>sys_id</resource_field>
+        <resource_matching_field/>
+        <resource_table>sys_user</resource_table>
+        <script/>
+        <sys_class_name>matching_dimension</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 14:10:00</sys_created_on>
+        <sys_id>67323d6ddbb010100455ab7dca9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Matching product returns</sys_name>
+        <sys_package display_value="Publisher" source="x_485380_publisher">e4d959a8dbfc10100455ab7dca961941</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Publisher">e4d959a8dbfc10100455ab7dca961941</sys_scope>
+        <sys_update_name>matching_dimension_67323d6ddbb010100455ab7dca9619fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 14:10:00</sys_updated_on>
+        <use_reference>false</use_reference>
+        <user_field/>
+    </matching_dimension>
+</record_update>

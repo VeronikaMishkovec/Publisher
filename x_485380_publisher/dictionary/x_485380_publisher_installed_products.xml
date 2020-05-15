@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="installed products" max_length="40" name="x_485380_publisher_installed_products" sizeclass="20" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Install Base Item" label="Install Base Item" max_length="40" name="u_install_base_item" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Sold Product" label="Sold Product" max_length="40" name="u_sold_product" type="string"/>
+    </element>
+</database>

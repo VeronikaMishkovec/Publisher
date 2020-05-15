@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="install base items" max_length="40" name="x_485380_publisher_install_base_items" type="collection">
+    <element extends="sys_import_set_row" label="install base items" max_length="40" name="x_485380_publisher_install_base_items" sizeclass="20" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Account" label="Account" max_length="40" name="u_account" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Configuration Item" label="Configuration Item" max_length="40" name="u_configuration_item" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Contact" label="Contact" max_length="40" name="u_contact" type="string"/>

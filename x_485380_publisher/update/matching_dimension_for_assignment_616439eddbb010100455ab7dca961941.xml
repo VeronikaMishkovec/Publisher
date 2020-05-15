@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="matching_dimension_for_assignment">
+    <matching_dimension_for_assignment action="INSERT_OR_UPDATE">
+        <dimension display_value="Matching product returns">67323d6ddbb010100455ab7dca9619fe</dimension>
+        <dimension_type>ranking</dimension_type>
+        <matching_rule display_value="Product queries">1ceaa165dbb010100455ab7dca9619bb</matching_rule>
+        <order>1</order>
+        <ranking_method>more is better</ranking_method>
+        <selected>true</selected>
+        <sys_class_name>matching_dimension_for_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 14:16:54</sys_created_on>
+        <sys_id>616439eddbb010100455ab7dca961941</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>67323d6ddbb010100455ab7dca9619fe</sys_name>
+        <sys_package display_value="Publisher" source="x_485380_publisher">e4d959a8dbfc10100455ab7dca961941</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Publisher">e4d959a8dbfc10100455ab7dca961941</sys_scope>
+        <sys_update_name>matching_dimension_for_assignment_616439eddbb010100455ab7dca961941</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 14:16:54</sys_updated_on>
+        <threshold/>
+        <user/>
+        <weight>10</weight>
+    </matching_dimension_for_assignment>
+</record_update>
