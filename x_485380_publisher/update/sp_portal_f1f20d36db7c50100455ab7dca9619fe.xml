@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <default>false</default>
+        <homepage display_value="sp_config_homepage">b5b04bd3d721120023c84f80de610319</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page display_value="csm_sc_category">e78251a1774433002f3c73a1a91061d2</sc_catalog_page>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="CSM Header Menu">b0928873cb53020000f8d856634c9cb0</sp_rectangle_menu>
+        <sqanda_knowledge_base display_value="Social QA">5c45a3a0d712120023c84f80de61038b</sqanda_knowledge_base>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-19 07:54:46</sys_created_on>
+        <sys_id>f1f20d36db7c50100455ab7dca9619fe</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Publisher Servivce Portal</sys_name>
+        <sys_package display_value="Publisher" source="x_485380_publisher">e4d959a8dbfc10100455ab7dca961941</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Publisher">e4d959a8dbfc10100455ab7dca961941</sys_scope>
+        <sys_update_name>sp_portal_f1f20d36db7c50100455ab7dca9619fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-19 08:19:39</sys_updated_on>
+        <theme display_value="La Jolla">a7a6e78277002300a6e592718a10617a</theme>
+        <title>Publisher Servivce Portal</title>
+        <ts_index_group/>
+        <url_suffix>pub</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=f1f20d36db7c50100455ab7dca9619fe"/>
+</record_update>
