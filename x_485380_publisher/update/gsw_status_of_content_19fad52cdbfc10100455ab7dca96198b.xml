@@ -5,21 +5,21 @@
         <content display_value="Assign Access Controls (ACLs)">c8f28e7ec7f33300271beb861dc26055</content>
         <effective_weight>1</effective_weight>
         <more_info_visited>false</more_info_visited>
-        <previous_status>0</previous_status>
-        <progress>0</progress>
-        <related_log_entry display_value="2020-05-19 02:55:05">680f917edb7090100455ab7dca961952</related_log_entry>
-        <status>1</status>
+        <previous_status>1</previous_status>
+        <progress>100</progress>
+        <related_log_entry display_value="2020-05-19 06:45:41">92c31af2dbf490100455ab7dca9619ed</related_log_entry>
+        <status>2</status>
         <sys_class_name>gsw_status_of_content</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-12 09:51:03</sys_created_on>
         <sys_id>19fad52cdbfc10100455ab7dca96198b</sys_id>
-        <sys_mod_count>8</sys_mod_count>
-        <sys_name>1</sys_name>
+        <sys_mod_count>23</sys_mod_count>
+        <sys_name>2</sys_name>
         <sys_package display_value="Publisher" source="x_485380_publisher">e4d959a8dbfc10100455ab7dca961941</sys_package>
         <sys_policy/>
         <sys_scope display_value="Publisher">e4d959a8dbfc10100455ab7dca961941</sys_scope>
         <sys_update_name>gsw_status_of_content_19fad52cdbfc10100455ab7dca96198b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-19 09:55:05</sys_updated_on>
+        <sys_updated_on>2020-05-19 13:45:41</sys_updated_on>
     </gsw_status_of_content>
 </record_update>

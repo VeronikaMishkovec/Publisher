@@ -7,19 +7,19 @@
         <more_info_visited>false</more_info_visited>
         <previous_status>0</previous_status>
         <progress>0</progress>
-        <related_log_entry display_value="2020-05-12 02:50:49">fdea912cdbfc10100455ab7dca961995</related_log_entry>
-        <status>0</status>
+        <related_log_entry display_value="2020-05-19 06:45:38">31c356f2dbf490100455ab7dca9619dd</related_log_entry>
+        <status>1</status>
         <sys_class_name>gsw_status_of_content</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-12 09:50:49</sys_created_on>
         <sys_id>35ea912cdbfc10100455ab7dca961996</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>0</sys_name>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>1</sys_name>
         <sys_package display_value="Publisher" source="x_485380_publisher">e4d959a8dbfc10100455ab7dca961941</sys_package>
         <sys_policy/>
         <sys_scope display_value="Publisher">e4d959a8dbfc10100455ab7dca961941</sys_scope>
         <sys_update_name>gsw_status_of_content_35ea912cdbfc10100455ab7dca961996</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-12 09:50:49</sys_updated_on>
+        <sys_updated_on>2020-05-19 13:45:38</sys_updated_on>
     </gsw_status_of_content>
 </record_update>

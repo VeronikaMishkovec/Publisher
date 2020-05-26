@@ -7,19 +7,19 @@
         <more_info_visited>false</more_info_visited>
         <previous_status>0</previous_status>
         <progress>100</progress>
-        <related_log_entry display_value="2020-05-15 08:02:35">790fb169dbf010100455ab7dca96195c</related_log_entry>
+        <related_log_entry display_value="2020-05-19 03:54:52">50bc21b6dbf090100455ab7dca961983</related_log_entry>
         <status>2</status>
         <sys_class_name>gsw_status_of_content</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-12 09:50:47</sys_created_on>
         <sys_id>1dea912cdbfc10100455ab7dca961904</sys_id>
-        <sys_mod_count>43</sys_mod_count>
+        <sys_mod_count>73</sys_mod_count>
         <sys_name>2</sys_name>
         <sys_package display_value="Publisher" source="x_485380_publisher">e4d959a8dbfc10100455ab7dca961941</sys_package>
         <sys_policy/>
         <sys_scope display_value="Publisher">e4d959a8dbfc10100455ab7dca961941</sys_scope>
         <sys_update_name>gsw_status_of_content_1dea912cdbfc10100455ab7dca961904</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-15 15:02:35</sys_updated_on>
+        <sys_updated_on>2020-05-19 10:54:52</sys_updated_on>
     </gsw_status_of_content>
 </record_update>

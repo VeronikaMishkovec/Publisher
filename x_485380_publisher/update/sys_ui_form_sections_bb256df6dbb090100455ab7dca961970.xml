@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="bb256df6dbb090100455ab7dca961970" sys_domain="global" table="x_485380_publisher_case" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-19 10:22:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48356df6dbb090100455ab7dca9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_485380_publisher_case" name="x_485380_publisher_case" sys_domain="global" view="Default view">bb256df6dbb090100455ab7dca961970</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_485380_publisher_case" sys_domain="global" view="Default view">44356df6dbb090100455ab7dca9619ac</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-19 10:22:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-19 10:22:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf256df6dbb090100455ab7dca96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_485380_publisher_case" name="x_485380_publisher_case" sys_domain="global" view="Default view">bb256df6dbb090100455ab7dca961970</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_485380_publisher_case" sys_domain="global" view="Default view">37256df6dbb090100455ab7dca961979</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-19 10:22:04</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-19 10:22:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c356df6dbb090100455ab7dca9619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_485380_publisher_case" name="x_485380_publisher_case" sys_domain="global" view="Default view">bb256df6dbb090100455ab7dca961970</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_485380_publisher_case" sys_domain="global" view="Default view">b7256df6dbb090100455ab7dca961980</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-19 10:22:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-19 10:22:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f256df6dbb090100455ab7dca961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_485380_publisher_case" name="x_485380_publisher_case" sys_domain="global" view="Default view">bb256df6dbb090100455ab7dca961970</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_485380_publisher_case" sys_domain="global" view="Default view">7b256df6dbb090100455ab7dca961972</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-19 10:22:04</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_485380_publisher_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-19 10:22:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb256df6dbb090100455ab7dca961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_485380_publisher_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Publisher" source="x_485380_publisher">e4d959a8dbfc10100455ab7dca961941</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Publisher">e4d959a8dbfc10100455ab7dca961941</sys_scope>
+            <sys_update_name>sys_ui_form_sections_bb256df6dbb090100455ab7dca961970</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-19 10:22:04</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

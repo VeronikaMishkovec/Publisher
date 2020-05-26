@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="matching_rule">
+    <matching_rule action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assignment_rule/>
+        <condition/>
+        <matching_options>simple</matching_options>
+        <name>Publisher cases</name>
+        <order>100</order>
+        <resource_type_table>sys_user</resource_type_table>
+        <schedule_filter>false</schedule_filter>
+        <script/>
+        <supply_user_condition/>
+        <supply_user_field_name>sysuser_sys_id</supply_user_field_name>
+        <supply_user_table>matching_user_group_skills</supply_user_table>
+        <sys_class_name>matching_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-19 10:40:59</sys_created_on>
+        <sys_id>579865bedbb090100455ab7dca9619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Publisher cases</sys_name>
+        <sys_package display_value="Publisher" source="x_485380_publisher">e4d959a8dbfc10100455ab7dca961941</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Publisher">e4d959a8dbfc10100455ab7dca961941</sys_scope>
+        <sys_update_name>matching_rule_579865bedbb090100455ab7dca9619af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-19 10:40:59</sys_updated_on>
+        <table>x_485380_publisher_case</table>
+        <user/>
+    </matching_rule>
+</record_update>

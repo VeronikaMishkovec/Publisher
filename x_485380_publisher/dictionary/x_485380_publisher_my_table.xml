@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="my-table" max_length="40" name="x_485380_publisher_my_table" sizeclass="0" text_index="true" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+    <element label="_PublisherTable" max_length="40" name="x_485380_publisher_my_table" sizeclass="0" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Product Name" mandatory="true" max_length="40" name="name" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" dependent="name" dependent_on_field="name" label="Customer Name" mandatory="true" max_length="40" name="u_customer_name" reference="x_485380_publisher_consumer" type="string" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Query Details" max_length="100" name="u_query_details" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Query Type" mandatory="true" max_length="40" name="u_query_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Product returns" sequence="0" value="product returns"/>
+                <element inactive_on_update="false" label="Product delivery (newsagent)" sequence="1" value="product delivery (newsagent)"/>
+                <element inactive_on_update="false" label="Product delivery (non-newsagent)" sequence="2" value="product delivery (non-newsagent)"/>
+                <element inactive_on_update="false" label="Product packing" sequence="3" value="product packing"/>
+                <element inactive_on_update="false" label="Product goods in (depot issue)" sequence="4" value="product goods in (depot issue)"/>
+                <element inactive_on_update="false" label="Product goods in (claims issue)" sequence="5" value="product goods in (claims issue)"/>
+                <element inactive_on_update="false" label="Supplements" sequence="6" value="supplements"/>
+                <element inactive_on_update="false" label="Customer Invoice" sequence="7" value="customer invoice"/>
+                <element inactive_on_update="false" label="Supplier Invoice" sequence="8" value="supplier invoice"/>
+                <element inactive_on_update="false" label="Customer Voucher" sequence="9" value="customer voucher"/>
+                <element inactive_on_update="false" label="Pricing issue" sequence="10" value="pricing issue"/>
+                <element inactive_on_update="false" label="Barcode issue" sequence="11" value="barcode issue"/>
+                <element inactive_on_update="false" label="RDT" sequence="12" value="rdt"/>
+                <element inactive_on_update="false" label="Other" sequence="13" value="other"/>
+            </choice>
+        </element>
         <index name="index">
             <element name="sys_class_name"/>
         </index>

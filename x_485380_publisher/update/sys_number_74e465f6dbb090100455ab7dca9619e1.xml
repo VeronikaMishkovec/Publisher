@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_485380_publisher_case">x_485380_publisher_case</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>CASE</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-19 10:20:46</sys_created_on>
+        <sys_id>74e465f6dbb090100455ab7dca9619e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CASE</sys_name>
+        <sys_package display_value="Publisher" source="x_485380_publisher">e4d959a8dbfc10100455ab7dca961941</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Publisher">e4d959a8dbfc10100455ab7dca961941</sys_scope>
+        <sys_update_name>sys_number_74e465f6dbb090100455ab7dca9619e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-19 10:20:46</sys_updated_on>
+    </sys_number>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_assignment">
+    <sysrule_assignment action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <description/>
+        <group display_value="Publisher" name="Publisher">28ce2aa8dbf050100455ab7dca961965</group>
+        <match_conditions>ALL</match_conditions>
+        <name>Products</name>
+        <order>100</order>
+        <script> current.release.product.service.assigned_to;</script>
+        <sys_class_name>sysrule_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-19 11:52:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9a38793adb3490100455ab7dca96197e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Products</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Publisher" source="x_485380_publisher">e4d959a8dbfc10100455ab7dca961941</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Publisher">e4d959a8dbfc10100455ab7dca961941</sys_scope>
+        <sys_update_name>sysrule_assignment_9a38793adb3490100455ab7dca96197e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-19 11:52:58</sys_updated_on>
+        <table>x_485380_publisher_case</table>
+        <user/>
+    </sysrule_assignment>
+</record_update>

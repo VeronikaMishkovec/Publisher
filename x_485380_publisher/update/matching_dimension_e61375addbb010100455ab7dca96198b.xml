@@ -15,22 +15,22 @@
         <reference_filter/>
         <reference_label/>
         <reference_table>task</reference_table>
-        <resource_field>sys_id</resource_field>
-        <resource_matching_field>name</resource_matching_field>
-        <resource_table>sys_user</resource_table>
+        <resource_field>work_start</resource_field>
+        <resource_matching_field>number</resource_matching_field>
+        <resource_table>x_485380_publisher_case</resource_table>
         <script/>
         <sys_class_name>matching_dimension</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-15 14:11:06</sys_created_on>
         <sys_id>e61375addbb010100455ab7dca96198b</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Matching product delivery</sys_name>
         <sys_package display_value="Publisher" source="x_485380_publisher">e4d959a8dbfc10100455ab7dca961941</sys_package>
         <sys_policy/>
         <sys_scope display_value="Publisher">e4d959a8dbfc10100455ab7dca961941</sys_scope>
         <sys_update_name>matching_dimension_e61375addbb010100455ab7dca96198b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-15 14:13:13</sys_updated_on>
+        <sys_updated_on>2020-05-19 10:48:01</sys_updated_on>
         <use_reference>false</use_reference>
         <user_field/>
     </matching_dimension>
