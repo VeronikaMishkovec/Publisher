@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="business_location" table="x_485380_publisher_publisher_cases" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>business_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Newspaper location</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e8766a9ddb8d50100455ab7dca9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>newspaper location</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>business_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Magazine location</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c766a9ddb8d50100455ab7dca9619af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>magazine location</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>business_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FSSC</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a8766a9ddb8d50100455ab7dca9619b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>fssc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>business_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sales Center</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28766a9ddb8d50100455ab7dca9619b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>sales center</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>business_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Customer Service Center</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a4766a9ddb8d50100455ab7dca9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>customer service center</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>business_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Newspaper Account Team</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24766a9ddb8d50100455ab7dca9619b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>newspaper account team</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>business_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data management</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a0766a9ddb8d50100455ab7dca9619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>data management</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>business_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Voucher Team</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>20766a9ddb8d50100455ab7dca9619b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>voucher team</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>business_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reporting</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac766a9ddb8d50100455ab7dca9619b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>reporting</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>business_location</element>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_id>24766a9ddb8d50100455ab7dca9619af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>business_location</sys_name>
+            <sys_package display_value="Publisher" source="x_485380_publisher">e4d959a8dbfc10100455ab7dca961941</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Publisher">e4d959a8dbfc10100455ab7dca961941</sys_scope>
+            <sys_update_name>sys_choice_x_485380_publisher_publisher_cases_business_location</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

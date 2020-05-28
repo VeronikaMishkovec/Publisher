@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="querytype" table="x_485380_publisher_publisher_cases" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>querytype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Product returns</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68766a9ddb8d50100455ab7dca9619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>product returns</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>querytype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Product delivery (newsagent)</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a8766a9ddb8d50100455ab7dca9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>product delivery (newsagent)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>querytype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Product delivery (non-newsagent)</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28766a9ddb8d50100455ab7dca9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>product delivery (non-newsagent)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>querytype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Product packing</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a4766a9ddb8d50100455ab7dca9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>product packing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>querytype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Product goods in (depot issue)</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24766a9ddb8d50100455ab7dca9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>product goods in (depot issue)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>querytype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Product goods in (claims issue)</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a0766a9ddb8d50100455ab7dca9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>product goods in (claims issue)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>querytype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Supplements</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>20766a9ddb8d50100455ab7dca9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>supplements</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>querytype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Customer Invoice</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64766a9ddb8d50100455ab7dca9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>customer invoice</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>querytype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Supplier Invoice</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0766a9ddb8d50100455ab7dca9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>supplier invoice</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>querytype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Customer voucher</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>60766a9ddb8d50100455ab7dca9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>customer voucher</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>querytype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pricing issue</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec766a9ddb8d50100455ab7dca9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>pricing issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>querytype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Barcode issue</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>11</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c766a9ddb8d50100455ab7dca9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>barcode issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>querytype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RDT</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>12</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e8766a9ddb8d50100455ab7dca9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>rdt</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>querytype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sequence>13</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68766a9ddb8d50100455ab7dca9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>querytype</element>
+            <name>x_485380_publisher_publisher_cases</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-27 09:32:01</sys_created_on>
+            <sys_id>a0766a9ddb8d50100455ab7dca9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>querytype</sys_name>
+            <sys_package display_value="Publisher" source="x_485380_publisher">e4d959a8dbfc10100455ab7dca961941</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Publisher">e4d959a8dbfc10100455ab7dca961941</sys_scope>
+            <sys_update_name>sys_choice_x_485380_publisher_publisher_cases_querytype</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-27 09:32:01</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

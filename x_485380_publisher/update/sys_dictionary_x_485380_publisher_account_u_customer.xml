@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-12 10:20:32</sys_created_on>
-        <sys_id>09b16560db3050100455ab7dca961989</sys_id>
+        <sys_id>8bea5655db4d50100455ab7dca961903</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Customer</sys_name>
         <sys_package display_value="Publisher" source="x_485380_publisher">e4d959a8dbfc10100455ab7dca961941</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="Publisher">e4d959a8dbfc10100455ab7dca961941</sys_scope>
         <sys_update_name>sys_dictionary_x_485380_publisher_account_u_customer</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-12 10:20:32</sys_updated_on>
+        <sys_updated_on>2020-05-27 08:41:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
